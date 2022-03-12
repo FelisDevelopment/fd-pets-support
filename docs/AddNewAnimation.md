@@ -2,7 +2,7 @@
 
 ## Description
 
-You can easily add new animations for specific animal. Please compare examples below to see how it's done. `example` action / animation will be added.
+You can easily add new animations for specific animal. Please compare examples below to see how it's done. `example` animation will be added.
 
 ## File
 
@@ -123,7 +123,7 @@ You can easily add new animations for specific animal. Please compare examples b
                 ["dict"] = "creatures@rottweiler@move",
                 ["anim"] = "dead_left"
             },
-            -- since this example the action `example` is not custom action, we'll add animation which will be applied for entity
+            -- since this example the action `example` is not custom method, we'll add animation which will be applied for entity
             ["example"] = {
                 ["dict"] = "example@dict@very@much",
                 ["anim"] = "example"

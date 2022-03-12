@@ -12,6 +12,7 @@ Preview of this resource can be found on [Youtube](https://youtube.com)
 If you use [QBCore](https://github.com/qbcore-framework) for your server, you can find this system simple adaption for free at [repository](https://github.com/FelisDevelopment/fdqb-pets). (fd-pets is still needed as a dependency)
 
 # Documentation
+##### NOTE: Sorry for any grammar mistakes.
 
 ### [Config](docs/Config.md) explanation
 ### [Translations](docs/Translations.md) explanation
