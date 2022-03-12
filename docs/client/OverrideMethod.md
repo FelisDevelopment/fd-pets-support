@@ -12,26 +12,26 @@ You can override original Utils methods from any resource.
 ## Parameters passed to callback
 
 #### OnTryingToSpawnPet - Triggered whenever player tries to spawn a pet
-**pet**: string - original pet (config key)
-**config**: table - original config
+* **pet**: string - original pet (config key)
+* **config**: table - original config
 
 #### OnFinishingPetSetup - Triggered whenever pet is already spawned and set up for it is finishing
-**netId**: int - pet network id
-**config**: table - original config
-**pet**: string - original pet (config key)
+* **netId**: int - pet network id
+* **config**: table - original config
+* **pet**: string - original pet (config key)
 
 #### OnOpeningMenu - Triggered whenever player is trying to open menu
-**config**: table - original config
-**selected**: table - table with selection (entity, coords)
+* **config**: table - original config
+* **selected**: table - table with selection (entity, coords)
 
 ##### OnStartingAction - Triggered whenever action for pet is triggered
-**action**: string - triggered action
-**netId**: int - pet network id
-**config**: table - original config
+* **action**: string - triggered action
+* **netId**: int - pet network id
+* **config**: table - original config
 
 ##### Notification - Override notification depending on your systems
-**text**: string - notification text
-**type**: string - notification type (success, error)
+* **text**: string - notification text
+* **type**: string - notification type (success, error)
 
 ## Examples (from QBCore adaptation script)
 

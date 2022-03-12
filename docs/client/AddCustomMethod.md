@@ -11,10 +11,10 @@ You can add or override custom methods for actions via this export.
 * **callback**: method to be used
 
 ## Parameters passed to callback
-**netId**: int - pet network id
-**config**: table - original config
-**selected**: table - table with selection (entity, coords)
-**currentActionState**: bool - current action state
+* **netId**: int - pet network id
+* **config**: table - original config
+* **selected**: table - table with selection (entity, coords)
+* **currentActionState**: bool - current action state
 
 ## Examples
 
