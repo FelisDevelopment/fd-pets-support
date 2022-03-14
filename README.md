@@ -5,8 +5,8 @@ Custom pets resource, designed to work as standalone resource or be dynamic to b
 Any issues / Bugs or Suggestions has to be reported in this repository issues. Please refer to: [Issues](https://github.com/FelisDevelopment/fd-pets-support/issues)
 
 ### Purchase / Preview
-System can be purchased at [Tebex](https://felis-development.tebex.io)
-Preview of this resource can be found on [Youtube](https://youtube.com)
+System can be purchased at [Tebex](https://felis-development.tebex.io/package/5013042)
+Preview of this resource can be found on [Youtube](https://www.youtube.com/watch?v=ZSXv7eqDLkI)
 
 ##### QBCore
 If you use [QBCore](https://github.com/qbcore-framework) for your server, you can find this system simple adaption for free at [repository](https://github.com/FelisDevelopment/fdqb-pets). (fd-pets is still needed as a dependency)
